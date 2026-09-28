@@ -30,6 +30,8 @@ ml-python-tutorial/
 | **NumPy Basics** | Arrays, mathematical operations, and linear algebra fundamentals. | [`Numpy.ipynb`](Numpy.ipynb) |
 | **Pandas Basics** | Data manipulation, cleaning, and exploratory data analysis (EDA). | [`Pandas.ipynb`](Pandas.ipynb) |
 | **Matplotlib** | Data visualization, plotting graphs, and creating interactive charts. | [`Matplotlib.ipynb`](Matplotlib.ipynb) |
+| **Basic EDA** |EDA on numpy,pandas and matplotlib | [`Basic_EDA`](Basic_EDA.ipynb) |
+
 
 ## 🚀 Upcoming Modules (Roadmap)
 
